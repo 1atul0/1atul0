@@ -5,8 +5,8 @@
 -->
 
 
-- 🔭 I’m completed B-tech from Darbhanga College of Engineering Darbhanga.
-- 🌱 I have knowledge of Full Stack Development from Angela Yu on Udemy.
+- 🔭 I have completed B-tech from Darbhanga College of Engineering Darbhanga with stream Computer Science & Engineering with CGPA 8.53 .
+- 🌱 I have knowledge of Full Stack Web Development .
 - 👯 I’m looking to collaboration with open-source projects.
 - 🤔 I’m looking for help with finding Internship in Full Stack Development.
 - 📫 How to reach me: 919atul@gmail.com
